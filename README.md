@@ -1,6 +1,6 @@
 <img src='https://github.com/veelenga/bin/blob/master/lua.cr/logo.jpg?raw=true' width='100' align='right'>
 
-# lua.cr [![Build Status](https://travis-ci.org/veelenga/lua.cr.svg?branch=master)](https://travis-ci.org/veelenga/lua.cr)
+# lua.cr
 
 Bindings to liblua and a wrapper around it. **UNDER CONSTRUCTION** :construction:
 
