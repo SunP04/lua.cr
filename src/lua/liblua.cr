@@ -1,3 +1,6 @@
+{% if flag?(:win32) %}
+  @[Link(dll: "lua54.dll")]
+{% end %}
 @[Link("lua")]
 lib LibLua
   type State = Void*
